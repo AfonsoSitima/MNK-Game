@@ -8,7 +8,7 @@ This game is a generalization of popular games such as Tic-Tac-Toe ( m = n = k =
 
 ## Objective/GamePlay
 In this project, I aimed to create three different difficulty levels for players to challenge themselves against, on a board with user-defined dimensions (up to a maximum of 100x100).
-To start the game, you need to call the function jogo_mnk() in the file, passing three arguments:
+To start the game, you need to call the function `jogo_mnk()` in the file, passing three arguments:
 - cfg → A tuple of three elements representing the mnk configuration.
 -	jog → An integer (-1 for ‘O’ and 1 for ‘X’).
 -	lvl → A string indicating the difficulty level—there are three options: 'facil', 'normal', and 'dificil'.
