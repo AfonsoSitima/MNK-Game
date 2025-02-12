@@ -2,7 +2,9 @@
 My first university project 
 
 ## Introduction
-An  m, n, k  game is an abstract board game in which two players take turns placing stones on the free positions of a board with dimensions  m \times n . The first player to achieve  k  consecutive stones of their own color—horizontally, vertically, or diagonally (both main diagonal and antidiagonal)—wins the game. This game is a generalization of popular games such as Tic-Tac-Toe ( m = n = k = 3 ) or Gomoku ( m = n = 15, k = 5 ). Since the stones, once placed, are neither moved nor removed from the board, it is often played with pen and paper, using the symbols ‘X’ and ‘O’ instead of black and white stones.
+An  m, n, k  game is an abstract board game in which two players take turns placing stones on the free positions of a board with dimensions  m x n . The first player to achieve  k  consecutive stones of their own color—horizontally, vertically, or diagonally (both main diagonal and antidiagonal) wins the game. 
+
+This game is a generalization of popular games such as Tic-Tac-Toe ( m = n = k = 3 ) or Gomoku ( m = n = 15, k = 5 ). Since the stones, once placed, are neither moved nor removed from the board, it is often played with pen and paper, using the symbols ‘X’ and ‘O’ instead of black and white stones.
 
 ## Objective/GamePlay
 In this project, I aimed to create three different difficulty levels for players to challenge themselves against, on a board with user-defined dimensions (up to a maximum of 100x100).
